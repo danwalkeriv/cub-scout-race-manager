@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\bin\Debug\cub-scout-race-manager.exe
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\bin\Debug\cub-scout-race-manager.pdb
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\obj\x86\Debug\cub_scout_race_manager.frmSplash.resources
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\obj\x86\Debug\cub_scout_race_manager.Properties.Resources.resources
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\obj\x86\Debug\cub-scout-race-manager.exe
+C:\Users\Joshua\Documents\GitHub\cub-scout-race-manager\obj\x86\Debug\cub-scout-race-manager.pdb
